@@ -9,6 +9,7 @@ import proyecto.Proyecto;
 /**
  * TODO: description
  */
+@SuppressWarnings("unused")
 public class UNQSoft {
 
     private List<Proyecto> proyectos;
