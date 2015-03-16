@@ -1,0 +1,1 @@
+Este proyecto es producido para fines académicos. Contemplara el desarrollo de una aplicacion de punta a punta para entregar en la materia Desarrollo de Aplicaciones en la carrera Tecnicatura en Programacion de la Universidad Nacional de Quilmes, Argentina
